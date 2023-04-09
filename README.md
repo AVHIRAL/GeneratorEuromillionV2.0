@@ -1,5 +1,5 @@
 # GeneratorEuromillionV2.0
-Générateur Euromillion v1.0 Avancé V2.0
+Générateur Euromillion V2.0 Avancé
 
 Il faut impérativement installer les bibliothèques pour Python3 :
 
