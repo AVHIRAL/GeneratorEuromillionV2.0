@@ -19,19 +19,19 @@ from qiskit.circuit.library import RYGate
 
 Comprenant plusieurs paramètres :
 
-    1/ Génération des boules et des étoiles avec calcul de simulation sortie toute les 4 secondes.
+Génération des boules et des étoiles avec calcul de simulation sortie toute les 4 secondes.
 
-    2/ Prise ne compte des derniers résultats à entré au départ.
+Prise ne compte des derniers résultats à entré au départ.
 
-    3/ Historique FDJ selon le site Web.
+Historique FDJ selon le site Web.
 
-    4/ Prise en compte des statistiques des derniers numéros et étoiles, et des deux fichiers xls que vous pouvez éditer et le mettre à jours suivant les prochaines statistiques de 1 à 50 pour les boules, et de 1 à 12 pour les Étoiles.
+Prise en compte des statistiques des derniers numéros et étoiles, et des deux fichiers xls que vous pouvez éditer et le mettre à jours suivant les prochaines statistiques de 1 à 50 pour les boules, et de 1 à 12 pour les Étoiles.
 
-    5/ Prise en compte de plusieurs paramètres comme le diamètre des boules, le poids, le diamètre et la vitesse de rotation de la machine.
+Prise en compte de plusieurs paramètres comme le diamètre des boules, le poids, le diamètre et la vitesse de rotation de la machine.
 
-    6/ Module pour éviter de tirer les mêmes résultats que la dernière fois.
+Module pour éviter de tirer les mêmes résultats que la dernière fois.
 
-    7/ Plusieurs modules de calculs comme le Quantum module, Calculer le nombre de balles pouvant tenir dans la sphère, etc...
+Plusieurs modules de calculs comme le Quantum module, Calculer le nombre de balles pouvant tenir dans la sphère, etc...
 
 Pour lancer le script : python3 Générateur_Euromillion_v2.0.py
 
