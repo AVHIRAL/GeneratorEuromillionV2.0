@@ -19,6 +19,6 @@ Module pour éviter de tirer les mêmes résultats que la dernière fois.
 
 Plusieurs modules de calculs comme le Quantum module, Calculer le nombre de balles pouvant tenir dans la sphère, etc...
 
-Pour lancer le script : python3 Générateur_Euromillion_v2.0.py
+Pour lancer le script : python Générateur_Euromillion_v2.0.py
 
 AVHIRAL-TE@M 2023, coded by David PILATO. Donate PAYPAL : davidp8686@gmail.com
